@@ -1,0 +1,2 @@
+# CoreNLPTrial
+Stanford CoreNLP
